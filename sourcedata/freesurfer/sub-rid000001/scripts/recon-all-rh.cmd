@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/ZJ/zF/MD5E-s13793--12224c030e3141171b8dc8200df8360a.cmd/MD5E-s13793--12224c030e3141171b8dc8200df8360a.cmd
+/annex/objects/MD5E-s13793--12224c030e3141171b8dc8200df8360a.cmd

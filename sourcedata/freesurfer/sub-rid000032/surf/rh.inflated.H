@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Xk/Vq/MD5E-s513887--b99a01e9a48a23969570872bcf11f223.H/MD5E-s513887--b99a01e9a48a23969570872bcf11f223.H
+/annex/objects/MD5E-s513887--b99a01e9a48a23969570872bcf11f223.H
