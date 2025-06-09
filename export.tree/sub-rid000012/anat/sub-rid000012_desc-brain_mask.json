@@ -1,7 +1,0 @@
-{
-  "RawSources": [
-    "sub-rid000012/anat/sub-rid000012_T1w.nii.gz",
-    "sub-rid000012/anat/sub-rid000012_rec-ehalfhalf_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
